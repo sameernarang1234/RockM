@@ -1,0 +1,3 @@
+This is a hybrid (Both Android and IOS) mobile application to keep a record of the weekly work assigned to the student by his / her professor. The student has
+to input the date on which the task was assigned, the deadline of the task and the description of the task. The app uses Google Firebase to store the details
+of the task at the backend. I personally used this app during my MTech at Indian Institute of Technology Roorkee.
